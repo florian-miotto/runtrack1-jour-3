@@ -92,7 +92,7 @@ main {
         border: 2px dotted rgb(100, 100, 100);
         width: 100%;
         grid-template-columns:auto auto auto;
-        max-width: 80%;
+        max-width: 93%;
 
 }
 
@@ -136,7 +136,7 @@ main {
         
         border: 1px solid black;
         width: 100%;
-        grid-template-rows:100%;
+        grid-template-rows:30%;
         max-width: 90%;
         
        
